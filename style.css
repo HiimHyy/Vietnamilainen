@@ -34,9 +34,9 @@ a{
 
 .main {
     display: flex;
-    padding: 100px;
-    justify-content:  center ;
-    gap:  80px;
+    padding: 128px 256px 128px 256px;
+    justify-content: space-evenly;
+    gap: 80px;
     align-items: center;
     
 }
@@ -112,7 +112,7 @@ a{
 .quotation-container {
     display: flex;
     flex-direction: column;
-    padding: 128px 128px 96px;
+    padding: 128px 512px 128px 512px;
     background-color:#e5e7eb;
 }
 .quotation {
