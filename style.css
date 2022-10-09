@@ -112,7 +112,7 @@ a{
 .quotation-container {
     display: flex;
     flex-direction: column;
-    padding: 128px 512px 128px 512px;
+    padding: 128px 256px 128px 256px;
     background-color:#e5e7eb;
 }
 .quotation {
